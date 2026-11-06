@@ -162,3 +162,7 @@ YDCarLauncher/
 ⚠️ **ALL RIGHTS RESERVED**
 
 Unauthorized selling, distribution, reproduction, or publication on any other platform is strictly prohibited without prior written permission from the developer.
+
+🚧 **APP UNDER DEVELOPMENT**
+
+Improvements and exciting new features are coming soon! Stay tuned for updates. 🚀
